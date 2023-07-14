@@ -10,18 +10,17 @@ const Header = () => {
       <nav>
         <ul>
           <li>
-            <a href="#home">Work History</a>
+            <a href="#work-history">Work History</a>
           </li>
           <li>
-            <a href="#about">Education</a>
+            <a href="#education">Education</a>
           </li>
           <li>
-            <a href="#portfolio">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#portfolio">Skills</a>
+            <a href="#skills">Skills</a>
           </li>
-          {/* Add more navigation links */}
         </ul>
       </nav>
     </header>

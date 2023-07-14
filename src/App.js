@@ -9,6 +9,13 @@ function App() {
   return (
     <div className="App">
        <Header/>
+        {/* Experience */}
+      <section id="projects">
+        {/* Projects */}
+      </section>
+      <section id="skills">
+        {/* Skills */}
+      </section>
     </div>
   );
 }
