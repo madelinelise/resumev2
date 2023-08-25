@@ -1,11 +1,10 @@
-/* My @TODO notes:
- * 
- */
+import "./Experience.scss";
 
-const Experience = () => {
+const Experience = (props) => {
+  const { experiences } = props;
   return (
     <section id="experience">
-    <h2>Experience</h2>
+      <h2>Experience</h2>
       <ul>
         {experiences.map((experience) => (
           <li key={experience.id}>

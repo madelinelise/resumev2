@@ -1,0 +1,32 @@
+@import "./../../App.scss";
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
+
+nav {
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+    @include font-source-sans-bold;
+    font-weight: 900;
+    color: black;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+  li {
+    display: inline-block;
+  }
+}
