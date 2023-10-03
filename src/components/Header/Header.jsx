@@ -4,12 +4,12 @@
  */
 
 import "./Header.scss";
+import Icons from "../Icons/Icons.jsx"
 
 const Header = () => {
   return (
     <>
-      <header>
-        <div className="name">Madeline Jensen</div>
+      <header className="header">
         <nav aria-label="main">
           <ul>
             <li>
@@ -19,17 +19,15 @@ const Header = () => {
               <a href="#education">Education</a>
             </li>
             <li>
-              <a href="#projects">Projects</a>
+              <a href="#skills">Skills</a>
             </li>
             <li>
-              <a href="#skills">Skills</a>
+              <a href="#projects">Projects</a>
             </li>
           </ul>
         </nav>
+        <Icons/>
       </header>
-      <p>Hi, I’m Madeline, a software engineer committed to making a positive difference in the world.</p>
-      <p><strong>Reach out: madelinelise@gmail.com</strong></p>
-
     </>
   );
 };

@@ -1,3 +1,5 @@
+import "./LogoList.scss";
+
 const LogoList = (props) => {
   const { items } = props;
   const logoListItems = items.map((item) => (

@@ -1,3 +1,5 @@
+import "./List.scss";
+
 export const List = (props) => {
   const { items } = props;
   const listItems = items.map((item) => (
@@ -9,5 +11,5 @@ export const List = (props) => {
       )}
     </li>
   ));
-  return <ul className="list">{listItems}</ul>;
+  return <ul className="two-col-list">{listItems}</ul>;
 };

@@ -1,14 +1,15 @@
+import "./Projects.scss";
+
 const Projects = (props) => {
   const { projects } = props;
   return (
     <section id="projects">
-      <h2>Projects</h2>
+      <h3 className="section-title">A few projects I've worked on:</h3>
       <ul>
         {projects.map((project) => (
-          <li key={project.id}>
-            <h3>{project.title}</h3>
-            <p>{project.role}</p>
-            <p>{project.description}</p>
+          <li className="project-item" key={project.id}>
+            <h4 className="project-title" dangerouslySetInnerHTML={{__html: project.title}}></h4>
+            <p >{project.description}</p> 
           </li>
         ))}
       </ul>

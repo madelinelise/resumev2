@@ -1,0 +1,29 @@
+@import "./../../App.scss";
+
+.logo-list {
+  padding: 15px;
+  margin-bottom: 60px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  @include breakpoint($bp-md) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.logo-list-item {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+
+  img {
+    max-width: 100px;
+    filter: grayscale(1);
+    transition: 0.8s;
+
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+}

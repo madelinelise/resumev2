@@ -3,24 +3,130 @@
     "experiences": [
       {
         "id": 1,
-        "title": "Software Engineer",
-        "company": "TechCo",
-        "duration": "June 2020 - Present",
-        "description": "Developed innovative software solutions for various projects and collaborated with cross-functional teams."
+        "title": "Engineering Manager",
+        "company": "O3 World",
+        "duration": "November 2021 - October 2023",
+        "description": [
+          "Partner with product, design, and project management teams to architect and oversee the development, release cycles, and team resourcing of enterprise software development projects.",
+          "Directly managed the professional growth (and advocate) for engineers with a wide range of seniority.",
+          "Implementing an engineering practice by empowering my team in the solution process."
+        ]
       },
       {
         "id": 2,
-        "title": "Frontend Developer",
-        "company": "WebTech",
-        "duration": "January 2019 - May 2020",
-        "description": "Designed and implemented user interfaces for web applications, focusing on user experience and performance."
+        "title": "Founding Member",
+        "company": "Human Friendly AI",
+        "duration": "June 2023 - Current",
+        "description": [
+          "Collaborating with an exceptional community to co-create a future that prioritizes human well-being. Our ongoing initiatives encompass envisioning the path forward, delving into ethical AI standards, and establishing collaborations with AI firms to propel progress."
+        ]
       },
       {
         "id": 3,
-        "title": "Intern",
-        "company": "SoftDev",
-        "duration": "September 2018 - December 2018",
-        "description": "Assisted in software development tasks, learned about coding best practices, and worked on small coding projects."
+        "title": "Consultant, Engineering Courses",
+        "company": "Aptly",
+        "duration": "October 2022 - March 2023",
+        "description": [
+          "Reviewed and audited engineering learning courses on Coursera specializing in React, version control, and mobile application development.",
+          "Wrote assessment questions based on core learning objectives for learners to earn certifications."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Senior Developer",
+        "company": "Mediacurrent",
+        "duration": "June 2019 - November 2021",
+        "description": [
+          "Lead developer for enterprise open-source projects including performing discoveries for new builds, building out technical specifications, and leading the team through implementation.",
+          "Facilitated learning and growth opportunities for the team by creating training, mentorship and internship programs."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Supervisor, Web Services",
+        "company": "Volusia County Schools",
+        "duration": "December 2016 - June 2019",
+        "description": [
+          "Directly managed the growth of the web services team, including the redesign of 70 school websites and a district website."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Manager, Web Content",
+        "company": "Furniture Leisure",
+        "duration": "December 2014 - December 2016",
+        "description": [
+          "Content manager for 5 eCommerce websites. Oversaw the relaunch of 2 eCommerce websites."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": 3,
+        "title": "Bachelors of Science in Information Technology",
+        "company": "Daytona State College",
+        "duration": "Graduated 2017"
+      }
+    ],
+    "hard_skills": [
+      {
+        "title": "Component based development"
+      },
+      {
+        "title": "Headless + decoupled architecture"
+      },
+      {
+        "title": "React"
+      },
+      {
+        "title": "Drupal 7/8/9"
+      },
+      {
+        "title": "Javascript"
+      },
+      {
+        "title": "CI / CD"
+      },
+      {
+        "title": "Git"
+      },
+      {
+        "title": "Amazon Web Services"
+      },
+      {
+        "title": "Solutions architecture"
+      },
+      {
+        "title": "Storybook"
+      },
+      {
+        "title": "CSS + SCSS"
+      },
+      {
+        "title": "GraphQL"
+      },
+      {
+        "title": "Gatsby"
+      },
+      {
+        "title": "Next.js"
+      }
+    ],
+    "soft_skills": [
+      {
+        "title": "Hiring + talent retention"
+      },
+      {
+        "title": "Forecasting + resource planning"
+      },
+      {
+        "title": "Scrum + Agile practices"
+      },
+      {
+        "title": "Engineering practice development"
+      },
+      {
+        "title": "Pre-sales + project estimations"
       }
     ],
     "client_logos": [
@@ -53,42 +159,83 @@
         "title": "Principal",
         "url": "https://www.principal.com/",
         "img": "/logos/principal.png"
+      },
+      {
+        "title": "White House Historical Association",
+        "url": "https://www.whitehousehistory.org/",
+        "img": "/logos/white-house.png"
+      },
+      {
+        "title": "Vertex",
+        "url": "https://www.vertexinc.com",
+        "img": "/logos/vertex.png"
       }
     ],
     "projects": [
       {
         "id": 1,
-        "title": "Software Engineer",
-        "role": "TechCo",
-        "description": "Developed innovative software solutions for various projects and collaborated with cross-functional teams."
+        "title": "<a href=\"https:seic.com/\" target='_blank'>SEI Employee Benefits Portal</a>",
+        "description": "Helped build an interactive employee portal that includes elements of a financial application using React and other modern front-end technologies. I worked closely with all team members on this project to coordinate releases, API calls, and feature roadmapping."
       },
       {
-        "id": 1,
-        "title": "Software Engineer",
-        "role": "TechCo",
-        "description": "Developed innovative software solutions for various projects and collaborated with cross-functional teams."
+        "id": 2,
+        "title": "<a href=\"https://imarketsmart.com/\" target='_blank'>MarketSmart Data Pipelines</a>",
+        "description": "Completed an audit of their ETL data pipelines from beginning to end. This audit was in search for a root cause that was creating data drops. The pipeline began with an ecosystem of Wordpress sites, and processed through API Gateway and Lambda functions, ultimate into a frontend dashboard."
       },
       {
-        "id": 1,
-        "title": "Software Engineer",
-        "role": "TechCo",
-        "description": "Developed innovative software solutions for various projects and collaborated with cross-functional teams."
-      }
-    ],
-    "soft_skills": [
-      {
-        "title": "1"
+        "id": 3,
+        "title": "<a href=\"https://college.harvard.edu/\" target='_blank'>Harvard College</a>",
+        "description": "Conducted continuous maintenance activities and implemented new features for their Drupal and React build."
       },
       {
-        "title": "L2"
-      }
-    ],
-    "hard_skills": [
-      {
-        "title": "1"
+        "id": 3,
+        "title": "<a href=\"https://www.whitehousehistory.org/\" target='_blank'>White House Historical Association</a>",
+        "description": "Collaborated closely with the White House team to ensure the ongoing maintenance and enhancement of their Shopify e-commerce platform. Acted as a strategic partner in devising feature roadmaps aimed at optimizing conversion rates."
       },
       {
-        "title": "L2"
+        "id": 3,
+        "title": "<a href=\"https://www.psu.edu/news/\" target='_blank'>Penn State</a>",
+        "description": "Our team executed a comprehensive overhaul of a Drupal and Gatsby decoupled project, starting from the initial idea and seeing it through to the final implementation. We collaborated to strategize and define all aspects, including components, layouts, and the backend framework to send data to the frontend."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.vertexinc.com/\" target='_blank'>Vertex Inc</a>",
+        "description": "Collaborated with the Vertex team to facilitate the delivery of feature enhancements, address technical debt, enhance documentation, and develop tailored campaigns to engage their target audiences."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.magmutual.com/\" target='_blank'>MagMutual</a>",
+        "description": "Contributed to the ongoing performance maintenance and the development of new features for their decoupled React and Drupal website."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.nasdaq.com/market-activity/stocks/bnox/\" target='_blank'>NASDAQ</a>",
+        "description": "Worked with the team to revise the quote detail pages for each company. Included a redesign of the layout and header to pull real time stock data from various api sources."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://scholarsedge529.com/\" target='_blank'>Scholars Edge 529</a>",
+        "description": "Complete redesign to a drupal build from conception to implementation. As a team, we planned all components, layouts, and backend structure. Implemented many highcharts to create visualizations of data for savings plans."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.pwc.com/us/en/about-us/purpose-and-values/well-being-learning-project.html\" target='_blank'>Be Well, Work Well</a>",
+        "description": "PwC sponsored a new platform development initiative aimed at assisting their employees in achieving their wellness objectives. We worked to establish a robust system for user management and goal planning to help their team achieve their wellness goals."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.sralab.org/\" target='_blank'>Shirley Ryan Ability Lab</a>",
+        "description": "Contributed to the ongoing performance maintenance and the development of new features for their decoupled React and Drupal website."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://tmnas.com/\" target='_blank'>TMNAS</a>",
+        "description": "Performed a technical specification for a new underwriting application, including security concerns, architecture diagrams, and integration with multiple API sources."
+      },
+      {
+        "id": 3,
+        "title": "<a href=\"https://www.visittheusa.com/\"target='_blank'>Visit the USA</a>",
+        "description": "Contributed to the ongoing performance maintenance and the development of new features for their Drupal website."
       }
     ]
   }
