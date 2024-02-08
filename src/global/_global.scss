@@ -32,6 +32,7 @@ h4,
 h5,
 h6 {
   @include font-source-sans-bold;
+  color: $secondary-color;
   font-weight: 900;
 }
 
@@ -49,31 +50,27 @@ h1 {
 
 h2 {
   @include font-source-serif;
-  color: #73777d;
+  color: $secondary-color;
   font-size: 1.75rem;
 }
 
 h3 {
-  @include font-source-serif;
-  font-size: 1.75rem;
-  color: #73777d;
-  // margin-bottom: 15px;
+  font-size: 1.5rem;
+  color: $secondary-color;
 }
 
 h4 {
   font-size: 2rem;
-  // margin-bottom: 10px;
 }
 
 h5 {
   font-weight: normal;
   font-size: 1.25rem;
-  color: #73777d;
-  // margin-bottom: 15px;
+  color: $secondary-color;
 }
 
 h6 {
   font-size: 1rem;
   @include font-source-serif;
-  color: #73777d;
+  color: $secondary-color;
 }

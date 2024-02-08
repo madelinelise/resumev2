@@ -7,18 +7,9 @@
         "company": "O3 World",
         "duration": "November 2021 - October 2023",
         "description": [
-          "Partner with product, design, and project management teams to architect and oversee the development, release cycles, and team resourcing of enterprise software development projects.",
-          "Directly managed the professional growth (and advocate) for engineers with a wide range of seniority.",
-          "Implementing an engineering practice by empowering my team in the solution process."
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Founding Member",
-        "company": "Human Friendly AI",
-        "duration": "June 2023 - Current",
-        "description": [
-          "Collaborating with an exceptional community to co-create a future that prioritizes human well-being. Our ongoing initiatives encompass envisioning the path forward, delving into ethical AI standards, and establishing collaborations with AI firms to propel progress."
+          "Collaborated closely with product, design, and project management teams to architect and deliver enterprise software projects.",
+          "Simultaneously led multiple concurrent projects as a lead engineer, actively contributing to coding efforts for successful project delivery.",
+          "Guided the implementation of engineering processes and coding best practices while overseeing a diverse team of up to 9 engineers with varying levels of seniority."
         ]
       },
       {
@@ -27,8 +18,8 @@
         "company": "Aptly",
         "duration": "October 2022 - March 2023",
         "description": [
-          "Reviewed and audited engineering learning courses on Coursera specializing in React, version control, and mobile application development.",
-          "Wrote assessment questions based on core learning objectives for learners to earn certifications."
+          "Demonstrated expertise in React, version control, and mobile development through contributions course material and assessments.",
+          "Wrote the assessment questions at the end of each course lesson to reinforce key concepts and evaluate comprehension of engineering courses."
         ]
       },
       {
@@ -37,7 +28,7 @@
         "company": "Mediacurrent",
         "duration": "June 2019 - November 2021",
         "description": [
-          "Lead developer for enterprise open-source projects including performing discoveries for new builds, building out technical specifications, and leading the team through implementation.",
+          "Lead developer for enterprise open source projects including discoveries for new builds, defining technical specifications, and leading the team through implementation.",
           "Facilitated learning and growth opportunities for the team by creating training, mentorship and internship programs."
         ]
       },
@@ -47,7 +38,7 @@
         "company": "Volusia County Schools",
         "duration": "December 2016 - June 2019",
         "description": [
-          "Directly managed the growth of the web services team, including the redesign of 70 school websites and a district website."
+          "Served as the lead engineer for the web services team responsible for ownership and architectural planning of more than 120 unique websites."
         ]
       },
       {
@@ -70,34 +61,19 @@
     ],
     "hard_skills": [
       {
-        "title": "Component based development"
-      },
-      {
-        "title": "Headless + decoupled architecture"
-      },
-      {
         "title": "React"
       },
       {
-        "title": "Drupal 7/8/9"
+        "title": "TypeScript"
+      },
+      {
+        "title": "Next.js"
+      },
+      {
+        "title": "Gatsby"
       },
       {
         "title": "Javascript"
-      },
-      {
-        "title": "CI / CD"
-      },
-      {
-        "title": "Git"
-      },
-      {
-        "title": "Amazon Web Services"
-      },
-      {
-        "title": "Solutions architecture"
-      },
-      {
-        "title": "Storybook"
       },
       {
         "title": "CSS + SCSS"
@@ -106,69 +82,87 @@
         "title": "GraphQL"
       },
       {
-        "title": "Gatsby"
+        "title": "PHP"
       },
       {
-        "title": "Next.js"
+        "title": "Drupal"
+      },
+      {
+        "title": "Storybook"
+      },
+      {
+        "title": "Amazon Web Services (AWS)"
       }
     ],
     "soft_skills": [
       {
-        "title": "Hiring + talent retention"
+        "title": "Component-based development"
       },
       {
-        "title": "Forecasting + resource planning"
+        "title": "Solution architecture"
       },
       {
-        "title": "Scrum + Agile practices"
+        "title": "Continuous Integration/Continuous Deployment (CI/CD)"
       },
       {
-        "title": "Engineering practice development"
+        "title": "Version control (Git)"
       },
       {
-        "title": "Pre-sales + project estimations"
+        "title": "Agile methodologies"
+      },
+      {
+        "title": "API integration"
+      },
+      {
+        "title": "Automated testing"
+      },
+      {
+        "title": "Pre-sales and project estimations"
+      },
+      {
+        "title": "Effective customer communication"
       }
     ],
     "client_logos": [
       {
         "title": "sei",
         "url": "https://seic.com/",
-        "img": "/logos/sei.jpg"
+        "img": "logos/sei.jpg"
       },
       {
         "title": "AIM",
         "url": "https://alzimpact.org/",
-        "img": "/logos/aim.png"
+        "img": "logos/aim.png"
       },
       {
         "title": "NASDAQ",
         "url": "https://www.nasdaq.com/",
-        "img": "/logos/nasdaq.png"
+        "img": "logos/nasdaq.png"
       },
       {
         "title": "Harvard",
         "url": "https://college.harvard.edu/",
-        "img": "/logos/harvard.png"
+        "img": "logos/harvard.png"
       },
       {
         "title": "PWC",
         "url": "https://www.pwc.com/us/en/the-new-equation.html",
-        "img": "/logos/pwc.png"
+        "img": "logos/pwc.png"
       },
       {
         "title": "Principal",
         "url": "https://www.principal.com/",
-        "img": "/logos/principal.png"
+        "img": "logos/principal.png"
       },
       {
         "title": "White House Historical Association",
         "url": "https://www.whitehousehistory.org/",
-        "img": "/logos/white-house.png"
+        "img": "logos/white-house.png"
       },
       {
         "title": "Vertex",
         "url": "https://www.vertexinc.com",
-        "img": "/logos/vertex.png"
+        "img": "logos/vertex.png"
       }
     ],
     "projects": [

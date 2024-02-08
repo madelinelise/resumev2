@@ -27,9 +27,9 @@ function App() {
           </section>
           <section id="skills" className='skills section'>
             <h3 className='section-title'>Skills</h3>
-            <h4>Technical Skills</h4>
+            <h4>Technnologies</h4>
             <List items={pageData.data.hard_skills} />
-            <h4>Soft Skills</h4>
+            <h4>Practices</h4>
             <List items={pageData.data.soft_skills} />
           </section>
           <section id="projects" className='prjoects section'>
